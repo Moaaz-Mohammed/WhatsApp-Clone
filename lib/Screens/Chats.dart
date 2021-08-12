@@ -253,7 +253,7 @@ class Chats extends StatelessWidget {
                   ),
                   SizedBox(width: 20),
                   Expanded(
-                      child: Column(
+                    child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       nameText(text: 'Moaaz Mohammed'),
